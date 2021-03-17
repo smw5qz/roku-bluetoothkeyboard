@@ -7,7 +7,7 @@ Python program controlling Roku TV with a bluetooth keyboard.
 
 Install required modules for python3:  
 pip3 install keyboard  
-pip3 install roku  
+pip3 install roku
 pip3 install time  
 
 To run in background on machine:
