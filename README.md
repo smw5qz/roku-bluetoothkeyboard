@@ -1,6 +1,6 @@
 # roku-bluetoothkeyboard
 Python program controlling Roku TV with a bluetooth keyboard.  
-*Mappings subject to change across different keyboards
+*Mappings subject to change across different keyboards  
 *Keyboard must be connected to machine running the program prior to program start.  
 *Keyboard disconnect will terminate the program (will improve this in later release).  
 *Requires: Roku TV, Bluetooth keyboard, Linux machine (preferably raspberry pi or micro pc running Linux)
